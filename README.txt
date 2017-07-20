@@ -1,2 +1,2 @@
-Hello World Lorem Ipsum
+Hello World
 Someone is here,
